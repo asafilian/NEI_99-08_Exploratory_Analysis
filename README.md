@@ -1,4 +1,4 @@
-# NEI_99-08_Exploratory_Analysis
+# The US National Emissions Inventory Data (1999-2008): Exploratory_Analysis
 
 ## Introduction
 This project was the final project of the Exploratory Data Analysis Project. 
@@ -36,4 +36,5 @@ Source Classification Code Table (Source_Classification_Code.rds): This table pr
 6. Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips=="06037"). Which city has seen greater changes over time in motor vehicle emissions?
 
 
- 
+## Exploratory Data Analysis
+The questions above have been addressed in Plot1-6.R (Plot1-6.png), respectively.  
