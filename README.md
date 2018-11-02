@@ -18,7 +18,7 @@ PM2.5 Emissions Data (summarySCC_PM25.rds): This file contains a data frame with
 
 Here are the first few rows.
 
-- <span style="color:red">fips</span>: A five-digit number (represented as a string) indicating the U.S. county
+- **fips**: A five-digit number (represented as a string) indicating the U.S. county
 
 ## Questions
  
